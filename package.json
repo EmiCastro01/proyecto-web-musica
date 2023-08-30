@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-web-musica",
+  "version": "0.9.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmiCastro01/proyecto-web-musica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmiCastro01/proyecto-web-musica/issues"
+  },
+  "homepage": "https://github.com/EmiCastro01/proyecto-web-musica#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0"
+  }
+}
